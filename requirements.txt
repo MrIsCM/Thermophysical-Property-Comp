@@ -1,0 +1,27 @@
+# Core Python and Data Science Stack
+numpy
+pandas
+scikit-learn
+scipy
+statsmodels
+xgboost
+lightgbm
+catboost
+optuna
+
+# Visualization and Data Exploration
+matplotlib
+seaborn
+
+# Notebook and Development Tools
+jupyterlab
+ipykernel
+ipython
+ipywidgets
+joblib
+tqdm
+
+# Deep Learning and Kaggle Tools (from the pip section of environment.yml)
+tensorflow
+keras
+kaggle
