@@ -66,6 +66,6 @@ The repository is organized as follows:
 
 | Date | Notebook/Script | Model | MAE (Public LB) | Submission File | Notes |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| TBD | `notebooks/01_baseline_model.ipynb` | Ridge Regression | TBD | `submissions/baseline_v1.csv` | Initial submission using basic features. |
-| TBD | `src/train_catboost.py` | CatBoost + Optuna | TBD | `submissions/catboost_optuna_v2.csv` | Optimized hyperparameters with cross-validation. |
-| TBD | TBD | TBD | TBD | `submissions/TBD.csv` | Final selection for private leaderboard. |
+| 30/09/2025 | `notebooks\03-modeling.ipynb` | RF Regression | 33.950 | `submissions\base_rand_forest.csv` | Baseline. No hyperparameter tuning |
+| 30/09/2025 | `notebooks\03-modeling.ipynb` | XGBoost Regression | 34.255 | `submissions\base_xgboost.csv` | Baseline. No hyperparameter tuning |
+| 30/09/2025 | `notebooks\03-modeling.ipynb` | Linear Regression | 35.050 | `submissions\base_lin_reg.csv` | Baseline. No hyperparameter tuning |
