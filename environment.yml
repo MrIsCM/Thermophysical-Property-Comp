@@ -1,4 +1,4 @@
-name: kaggle-competitions
+name: melting-point-kaggle
 channels:
   - conda-forge
   - defaults
@@ -33,3 +33,4 @@ dependencies:
     - tensorflow         # The main deep learning framework
     - keras              # Keras is now part of the TensorFlow dependency structure but good to specify
     - kaggle             # Kaggle API for downloading datasets and submitting to competitions
+    - rdkit              # Chemistry library for molecular descriptors and fingerprints
