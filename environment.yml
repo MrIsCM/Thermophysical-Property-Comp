@@ -14,6 +14,7 @@ dependencies:
   - lightgbm
   - catboost
   - optuna               # For hyperparameter optimization
+  - openpyxl             # For reading/writing Excel files
 
   # 2. Visualization and Data Exploration
   - matplotlib

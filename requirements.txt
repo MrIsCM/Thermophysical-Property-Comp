@@ -8,6 +8,7 @@ xgboost
 lightgbm
 catboost
 optuna
+openpyxl
 
 # Visualization and Data Exploration
 matplotlib
@@ -20,6 +21,7 @@ ipython
 ipywidgets
 joblib
 tqdm
+
 
 # Deep Learning and Kaggle Tools (from the pip section of environment.yml)
 tensorflow
