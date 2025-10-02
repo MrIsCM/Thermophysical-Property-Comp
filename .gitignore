@@ -3,3 +3,12 @@ data/
 
 # Ignore catboost info files
 catboost_info/
+
+# Ignore Jupyter Notebook 04
+notebooks/04-preprocess-data.ipynb
+
+# Ignore test notebook
+notebooks/99_test_notebook.ipynb
+
+# Ignore Submissions
+submissions/
